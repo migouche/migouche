@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/migouche">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=migouche&count_private=true&show_icons=true&theme=slateorange&hide_border=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=migouche&count_private=true&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true" />
 </a>
 <a href="https://github.com/migouche">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migouche&theme=slateorange&hide_border=true&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migouche&theme=midnight-purple&hide_border=false&layout=compact&langs_count=8" />
 </a>
