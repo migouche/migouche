@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=migouche&count_private=true&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true" />
 </a>
 <a href="https://github.com/migouche">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migouche&theme=midnight-purple&hide_border=false&exclude_repo=https:Pootis-Runner-Dev,Procedural-Terrain-Project,Role-Playing-Simulator&layout=compact&langs_count=10&hide=csharp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migouche&theme=midnight-purple&hide_border=false&exclude_repo=https:Pootis-Runner-Dev,Procedural-Terrain-Project,Role-Playing-Simulator&layout=compact&langs_count=10&hide=cs" />
 </a>
