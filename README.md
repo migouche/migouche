@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:5a189a,100:9d4edd&height=220&section=header&text=Hi%20there,%20I'm%20Miguel&fontSize=38&fontColor=e0aaff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%E2%80%A2%20GameDev%20%E2%80%A2%20Language%20%26%20Emulator%20Builder&descAlign=50&descAlignY=58&descColor=c9a3ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:5a189a,100:9d4edd&height=220&section=header&text=Hi%20there,%20I'm%20Miguel&fontSize=38&fontColor=e0aaff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20%E2%80%A2%20GameDev%20%E2%80%A2%20Language%20and%20Emulator%20Builder&descAlign=50&descAlignY=58&descColor=c9a3ff" width="100%"/>
 
 <a href="https://github.com/migouche">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=650&lines=Building+languages+%26+emulators+for+fun;Wrapping+Pygame;C%2B%2B+%7C+Rust+%7C+Python+%7C+C%23;The+universe+is+coded+in+LISP+%F0%9F%91%BD" alt="Typing SVG" />
