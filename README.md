@@ -51,7 +51,7 @@
 </a>
 
 <a href="https://github.com/migouche/simulador-z80">
-  <img src="https://img.shields.io/badge/JAZZ80-Z80%20Emulator-4B0082?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAZZ80-Z80%20Emulator-4B0082?style=for-the-badge&logo=rust&logoColor=white" />
 </a>
 
 </div>
